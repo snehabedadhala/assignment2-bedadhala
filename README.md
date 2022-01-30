@@ -39,3 +39,19 @@ Below are the details of the Sports/Activity I would like to recommend. The deta
 
 >When you get tired, learn to rest, not quit *- Banksy*
 
+---
+# Code Fencing #
+> Combinatorics is an area of mathematics primarily concerned with counting, both as a means and an end in obtaining results, and certain properties of finite structures. It is closely related to many other areas of mathematics and has many applications ranging from logic to statistical physics and from evolutionary biology to computer science.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Combinatorics)
+```
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+```
+[Code Source](https://cp-algorithms.com/algebra/factorial-divisors.html)
