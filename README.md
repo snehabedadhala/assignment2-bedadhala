@@ -22,3 +22,14 @@ Recommended Items at Chick-fil-A:
 * Southwest Chicken Salad
 
 [AboutMe](/AboutMe.md)
+
+---
+# Sports/Activity Section #
+Below are the details of the Sports/Activity I would like to recommend. The details include the name of the Activity, Location where you could do the Activity and the amount required to perform the Activity.
+| Sport/Activity | Location | Expenses |
+| --- | --- | ---: |
+| Hiking | Mozingo Lake Recreation Park | $0 |
+| Amusement Park | Worlds of Fun, Kansas City, MO | $100 |
+| Golf | TopGolf, Kansas City, MO | $100 |
+| Bowling | BearCat Lanes, Maryville, MO | $30 |
+
