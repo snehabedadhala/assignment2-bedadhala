@@ -36,5 +36,6 @@ Below are the details of the Sports/Activity I would like to recommend. The deta
 ---
 # Quotes #
 >Kindness always comes back *- k.tolno*<br>
+
 >When you get tired, learn to rest, not quit *- Banksy*
 
