@@ -16,3 +16,7 @@ Directions to Chick-fil-A from MCI:
 6. Follow directions for NWMSU Studedent Union.
 7. Chick-fil-A is located inside Student Union.
 
+Recommended Items at Chick-fil-A:
+* Chicken Nuggets
+* Spicy Chicken Sandwich
+* Southwest Chicken Salad
