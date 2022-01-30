@@ -33,3 +33,8 @@ Below are the details of the Sports/Activity I would like to recommend. The deta
 | Golf | TopGolf, Kansas City, MO | $100 |
 | Bowling | BearCat Lanes, Maryville, MO | $30 |
 
+---
+# Quotes #
+>Kindness always comes back *- k.tolno*<br>
+>When you get tired, learn to rest, not quit *- Banksy*
+
